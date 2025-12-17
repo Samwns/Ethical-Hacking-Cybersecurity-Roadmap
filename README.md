@@ -37,7 +37,7 @@ Todo o conteúdo listado e hospedado nos repositórios linkados abaixo tem **fin
 
 Antes de explorar falhas, é necessário entender como a tecnologia funciona.
 
-* [**📡 Redes de Computadores**](./link-para-seu-repo-ou-pasta-redes)
+* [**📡 Redes de Computadores**](https://github.com/Samwns/Redes-de-Computadores)
 
   * Endereçamento IP
   * Portas e protocolos
